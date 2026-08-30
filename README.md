@@ -34,11 +34,23 @@ DSA/
 
 ---
 
+## Recursion - Ongoing
+
+| sl no. | Problem                                           |
+|--------|---------------------------------------------------|
+| 1      | Analyzing Recursion output 1                      |
+| 2      | Analyzing Recursion output 2                      |
+| 3      | BinarySearch                                      |
+| 4      | Natural Number Sum                                |
+| 5      | Palindrome check                                  |
+| 6      | Print Numbers 1 to N                              |
+| 7      | Print Numbers N to 1                              |
+
+
 ## More Topics Coming Soon
 
 - Arrays
 - Strings
-- Recursion
 - Sorting
 - Searching
 - Linked List
