@@ -1,6 +1,6 @@
 package Recursion;
 
-public class recursion1 {
+public class Recursion1 {
 
     public static void fun(int n){
         if(n == 0){
