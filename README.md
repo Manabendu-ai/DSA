@@ -36,22 +36,27 @@ DSA/
 
 ## Recursion - Ongoing
 
-| sl no. | Problem                           |
-|--------|-----------------------------------|
-| 1      | Analyzing Recursion output 1      |
-| 2      | Analyzing Recursion output 2      |
-| 3      | BinarySearch                      |
-| 4      | Natural Number Sum                |
-| 5      | Palindrome check                  |
-| 6      | Print Numbers 1 to N              |
-| 7      | Print Numbers N to 1              |
-| 8      | Log Base 2 n using Recursion      |
-| 9      | Reversing a String                |
-| 10     | Sum of Digits                     |
-| 11     | Factorial using Tail Recursion    |
-| 12     | Binary Conversion using Recursion |
-| 13     | Factorial using tail Recursion    |
-| 14     | Sum Using Tail Recursion          |
+| sl no. | Problem                                 |
+|--------|-----------------------------------------|
+| 1      | Analyzing Recursion output 1            |
+| 2      | Analyzing Recursion output 2            |
+| 3      | BinarySearch                            |
+| 4      | Natural Number Sum                      |
+| 5      | Palindrome check                        |
+| 6      | Print Numbers 1 to N                    |
+| 7      | Print Numbers N to 1                    |
+| 8      | Log Base 2 n using Recursion            |
+| 9      | Reversing a String                      |
+| 10     | Sum of Digits                           |
+| 11     | Factorial using Tail Recursion          |
+| 12     | Binary Conversion using Recursion       |
+| 13     | Factorial using tail Recursion          |
+| 14     | Sum Using Tail Recursion                |
+| 15     | Factorial using Recursion               |
+| 16     | Natural Number Sum using Tail Recursion |
+| 17     | RopeCutting Problem                     |
+| 18     | Subset Problem                          |
+| 19     | Tower Of Hanoi                          |
 
 
 ## More Topics Coming Soon
