@@ -57,6 +57,8 @@ DSA/
 | 17     | RopeCutting Problem                     |
 | 18     | Subset Problem                          |
 | 19     | Tower Of Hanoi                          |
+| 20     | Left Right Paths                        |
+| 21     | Josephus Problem                        |
 
 
 ## More Topics Coming Soon
